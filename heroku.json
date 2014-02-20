@@ -3,12 +3,17 @@
   "appDescription": "A customizable, kegerator-powered life embetterment robot.",
   "config": {
     "description": "to find your token...",
-    "keys":
-      [
-        "HUBOT_CAMPFIRE_ACCOUNT",
-        "HUBOT_CAMPFIRE_TOKEN",
-        "HUBOT_CAMPFIRE_ROOMS"
-      ]
+    "keys": [
+      {
+        "key": "HUBOT_CAMPFIRE_ACCOUNT"
+      },
+      {
+        "key": "HUBOT_CAMPFIRE_TOKEN"
+      },
+      {
+        "key": "HUBOT_CAMPFIRE_ROOMS"
+      }
+    ]
   },
   "addOns": [
     "redistogo:nano"
