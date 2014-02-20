@@ -12,6 +12,14 @@
       },
       {
         "key": "HUBOT_CAMPFIRE_ROOMS"
+      },
+      {
+        "key": "TEST_KEY",
+        "value": "TEST_VALUE"
+      },
+      {
+        "key": "A_SECRET_KEY",
+        "source": "secret"
       }
     ]
   },
