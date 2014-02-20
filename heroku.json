@@ -20,6 +20,10 @@
       {
         "key": "A_SECRET_KEY",
         "source": "secret"
+      },
+      {
+        "key": "SOME_PASSWORD",
+        "source": "password"
       }
     ]
   },
